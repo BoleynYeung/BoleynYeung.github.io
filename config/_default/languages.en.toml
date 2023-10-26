@@ -10,7 +10,7 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
   # secondaryLogo = "PATH"
-  description = "A bioinformatic learner"
+  description = "A bioinformatics learner"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
