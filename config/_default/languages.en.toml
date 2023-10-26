@@ -10,7 +10,7 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
   # secondaryLogo = "PATH"
-  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  description = "这一个测试描述"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
