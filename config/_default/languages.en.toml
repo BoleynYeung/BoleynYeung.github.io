@@ -16,7 +16,7 @@ title = "Blowfish"
 [author]
   name = "Boleyn"
   image = "img/blowfish_logo.png"
-  headline = "A bioinformatic learner"
+  headline = "A bioinformatics learner"
   bio = "Single Cell、Spatial Omics、Machine Learning"
   links = [
     { twitter = "https://twitter.com/burufugu" },
